@@ -1,0 +1,15 @@
+// Practice questios for test
+class Main {
+  public static void main(String[] args) {
+    int a=3,b=6;
+    //int _=5;   
+    // System.out.print(a$);
+    System.out.println(a!=b);
+    System.out.println(a!=b);
+    System.out.println((5>60)||(6>4));
+     System.out.println((5>60)||(6>4));
+    System.out.println((5>60)||(6<4));
+    System.out.println(5<30);
+    
+  }
+}
