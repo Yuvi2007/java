@@ -1,0 +1,31 @@
+class Main {
+  public static void main(String[] args) {
+ /*  
+ int Sum=0;
+for (int x=0; x<11; x = x+2) 
+  {
+  //System.out.println (x);
+  Sum=Sum+x;//Sum+=x; 
+   
+  }
+    System.out.println ("sum of the first ten numbers"+Sum); */ract
+
+   /* 
+   int i = 1, n=5;
+
+    while(i<= n) {
+       System.out.println (i);
+      i++;
+    }
+    */
+
+  int i=1;
+    do
+      {
+        i++;
+         System.out.println (i);
+
+      }
+      while (i<=10);
+}
+}
